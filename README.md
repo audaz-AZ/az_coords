@@ -22,7 +22,7 @@ AZ_Coords es un menu para ver las coordenadas en la que tu PJ se encuentra , est
 🤖 0.00 de resmon sin uso y 0.02 en uso
 
 
-💻 Standalone.
+📣 x : , normal coords , vector3 y vector4
 
 
 ----------------------------------------------------------
