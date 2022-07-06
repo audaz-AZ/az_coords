@@ -47,7 +47,7 @@ NO IMPORTANTE , NO HACE FALTA LEER.
 
 CC : AZ_COORDS by audaz is licensed under a Creative Commons. Reconocimiento-NoComercial-SinObraDerivada 4.0 Internacional License.
 
-DMCA : Protection: This Uniform Resource Locator AZ_CARHUD is owned or published under permission by the owner of this channel. 
+DMCA : Protection: This Uniform Resource Locator AZ_COORDS is owned or published under permission by the owner of this channel. 
 The audio and or video presentation is original content and or contains original content published under permission including but not limited to text, design, images, 
 photographs, audio and video and are considered to be the Intellectual Property of the owner of this channel, whether copyrighted or not,
 and are protected by DMCA.com Protection Pro Service using but not limited to the Digital Millennium Copyright Act Title 17 Chapter 512 (c)(3).
